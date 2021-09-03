@@ -1,0 +1,4 @@
+Just selecting k value randomly, and run the clustering.
+change k value, and again run the clustering.
+keep repaeting with different k values.
+Whichever gives better clustering on iteration, select that.
